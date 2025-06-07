@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<img align="left" src="https://github-readme-stats-fapb.vercel.app/api?username=felix2246&show_icons=true&hide_border=true"/>
-
 <!--
 **felix2246/felix2246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
